@@ -1,0 +1,3 @@
+add FasterUINavigation.dll
+add mod.ini
+add mod_version.ini

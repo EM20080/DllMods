@@ -1,2 +1,0 @@
-add LostWorldEssentials.hmm
-add mod.ini

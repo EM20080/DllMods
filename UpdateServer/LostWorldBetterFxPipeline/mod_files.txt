@@ -1,0 +1,4 @@
+add LostWorldBetterFxPipeline.dll
+add LostWorldBetterFxPipeline.ini
+add mod.ini
+add mod_version.ini
